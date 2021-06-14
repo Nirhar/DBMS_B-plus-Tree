@@ -6,6 +6,7 @@ This Document is organised as follows:
     3. Documentation of ResultSet class
 
 ############################### 1. INSTRUCTIONS ##############################
+
 To compile the file and build the executables enter:
     make all
 
@@ -24,6 +25,7 @@ Note: The Meta data given here is the value of the key prepended with a "H"
 have a look at the sample runs directory to see screenshots of some runs
 
 ############################### 2. B+ TREE CLASS #############################
+
 To include the class copy files from the include folder to your project, and after 
 building the project copy the b+tree.o object file to your project
 
@@ -60,6 +62,7 @@ node* root
 
 
 ############################### 3. RESULTSET CLASS #############################
+
 To include the class copy files from the include folder to your project, and after 
 building the project copy the b+tree.o object file to your project
 
